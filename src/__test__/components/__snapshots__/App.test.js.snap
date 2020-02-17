@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`APP Element should render app element 1`] = `
+<div
+  className="App"
+  data-testid="app"
+/>
+`;
